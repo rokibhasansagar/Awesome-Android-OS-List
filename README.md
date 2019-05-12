@@ -15,12 +15,14 @@ AOKP (Android Open Kang Project)  | https://git.io/fxjqw | Android 4.0.4 ~ 8.1.0
 AOSGP (Android Open Source G-OS Project)     | https://git.io/fxjIA | Android 7.1.2
 AOSiP (Android Open Source illusion Project) | https://git.io/fxjLZ | Android 7.1.2 ~ 9.0
 AOSPA (ParanoidAndroid)  | https://git.io/fxjmj | Android 4.4.4 ~ 9.0
+AquariOS               | https://git.io/fjWnI | Android 7.1.1 ~ 9.x
 ArrowOS                | https://git.io/fjOEO | Android 8.1 ~ 9.0
 Bootleggers ROM          | https://git.io/fjOuq | Android 8.0 ~ 9.x
 CarbonROM              | https://git.io/fxjmT | Android 5.1.1 ~ 9.0 (cr7.1)
 CerberusOS             | https://git.io/fjOEU | Android 9.0
 CodeAuroraROM            | https://git.io/fxjtj | Android 4.2.2 ~ 9.0
 Colt-AOSP                | https://git.io/fxjYE | Android 8.1
+Colt-Enigma              | https://git.io/fjWnq | Android 9.x
 ColtOS                 | https://git.io/fxjY8 | Android 7.1.2
 ColtOS-Oreo              | https://git.io/fxjYR | Android 8.0 ~ 8.1
 crDroid Android          | https://git.io/fxjmJ | Android 5.1.1 ~ 9.0
