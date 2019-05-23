@@ -72,6 +72,7 @@ SAOSP-N                | https://git.io/fjOuu | Android 7.0 ~ 7.1.2
 ScrewdAOSP             | https://git.io/fjOu3 | Android 8.0 ~ 8.1
 SlimRoms                 | https://git.io/fxjeP | Android 4.1 ~ 9.0
 Superior OS            | https://git.io/fjOEA | Android 9.x
+Syberia Project          | https://git.io/fjBGh | Android 9.x
 Team-OctOS             | https://git.io/fj83k | Android 4.4 ~ 7.1.2
 Tesla-M (old)            | https://git.io/fxhjZ | Android 6.0.1_r70
 Tesla-OS                 | https://git.io/fxhjl | Android 8.0 ~ 8.1
