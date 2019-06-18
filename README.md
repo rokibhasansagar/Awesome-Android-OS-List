@@ -47,6 +47,7 @@ LegendROM-N              | https://git.io/fj83J | Android 7.1.2
 LegendROM-AOSP           | https://git.io/fj83v | Android 8.0 ~ 8.1
 LineageOS                | https://git.io/fxh7X | Android 8.0 (lineage-15) ~ 9.0 (lineage-16)
 Liquid-Dark            | https://git.io/fj8O4 | Android 7.1.2
+LiquidRemix            | https://git.io/fjabp | Android 8.0 ~ 9.x
 MoKee OS               | https://git.io/fjOEH | Android 4.1 ~ 9.0
 MSM-Xtended Project      | https://git.io/fjOEp | Android 8.0 ~ 8.1
 NucleaRom              | https://git.io/fj83q | Android 7.1.2 ~ 9.x
