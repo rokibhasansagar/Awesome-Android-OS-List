@@ -43,6 +43,7 @@ GZR-ValidusOS            | https://git.io/fxjvR | Android Nougat 7.1.2
 Havoc-OS               | https://git.io/fjOEm | Android 8.1 ~ 9.0
 Hexagon Rom              | https://git.io/fj8ON | Android 7.1.2 ~ 9.x
 IncipientOS              | https://git.io/fj8OW | Android 7.1.2
+Ion                    | https://git.io/fjPPV | Android 9.x
 LegendROM-N              | https://git.io/fj83J | Android 7.1.2
 LegendROM-AOSP           | https://git.io/fj83v | Android 8.0 ~ 8.1
 LineageOS                | https://git.io/fxh7X | Android 8.0 (lineage-15) ~ 9.0 (lineage-16)
