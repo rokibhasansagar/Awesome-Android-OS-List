@@ -67,6 +67,7 @@ PrismaOS               | https://git.io/fjOEF | Android 9.x
 ProjectNewWorld          | https://git.io/fj83m | Android 8.0 ~ 8.1
 PureNexusProject         | https://git.io/fxjO1 | Android 8.0 ~ 8.1
 PureNexusProject-Legacy      | https://git.io/fjOuK | Android 6.0.1 ~ 7.1.2
+RenouveauOS            | https://git.io/Je2WI | Android 9.x
 Resurrection Remix OS    | https://git.io/fxhQh | Android 5.1 ~ 9.x
 RevengeOS              | https://git.io/fjOEK | Android 8.1 ~ 9.0
 SAOSP-M                | https://git.io/fjOur | Android 6.0.1
