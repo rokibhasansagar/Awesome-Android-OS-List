@@ -64,6 +64,7 @@ Pixel Experience         | https://git.io/fjOEP | Android 8.1 ~ 10.x
 PixysOS                | https://git.io/fjOuL | Android 8.1 ~ 10.x
 PornAOSP               | https://git.io/fj8sp | Android 8.0
 PornAOSP (PAOSP)         | https://git.io/fj8sj | Android 7.1.2
+Potato Open Sauce Project    | https://git.io/JvvT3 | Android 8.1 ~ 10.x
 PrismaOS               | https://git.io/fjOEF | Android 9.x
 ProjectNewWorld          | https://git.io/fj83m | Android 8.0 ~ 8.1
 PureNexusProject         | https://git.io/fxjO1 | Android 8.0 ~ 8.1
