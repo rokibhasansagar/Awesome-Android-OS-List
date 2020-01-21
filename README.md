@@ -20,6 +20,7 @@ ArrowOS                | https://git.io/fjOEO | Android 8.1 ~ 10.x
 Bootleggers ROM          | https://git.io/fjOuq | Android 8.0 ~ 9.x
 CarbonROM              | https://git.io/fxjmT | Android 5.1.1 ~ 10.x (cr8)
 CerberusOS             | https://git.io/fjOEU | Android 9.x
+CesiumOS               | https://git.io/JvIpg | Android 10.x
 CodeAuroraROM            | https://git.io/fxjtj | Android 4.2.2 ~ 10.x
 Colt-AOSP                | https://git.io/fxjYE | Android 8.1
 Colt-Enigma              | https://git.io/fjWnq | Android 10.x
@@ -32,7 +33,7 @@ DarkNess-reDefined       | https://git.io/fj83E | Android 7.1.2 ~ 8.x
 Dirty Unicorns           | https://git.io/fxjYF | Android 4.4.4 ~ 10.x
 DotOS                  | https://git.io/fxjI2 | Android 7.1.2 ~ 9.x
 EmotionOS              | https://git.io/fj8O9 | Android 6.0.1 ~ 7.1.2
-Evolution X            | /kəˈpʊt/ | Android 9.x
+Evolution X            | https://git.io/fjOuH | Android 10.x
 FireHound              | https://git.io/fj8OF | Android 6.0.1 ~ .8.1.x
 Flash ROM              | https://git.io/fjOuZ | Android 7.0 ~ 7.1.2
 Flux OS                | /kəˈpʊt/ | Android 9.0
