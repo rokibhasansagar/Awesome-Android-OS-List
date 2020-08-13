@@ -30,6 +30,7 @@ crDroid Android          | https://git.io/fxjmJ | Android 5.1.1 ~ 10.x
 CyanogenMod              | https://git.io/fxh7R | Android 2 ~ 7.1 (cm14.1)
 CypherOS (AOSCP)        | https://git.io/fjOub | Android 7.1.2 ~ 10.x
 DarkNess-reDefined       | https://git.io/fj83E | Android 7.1.2 ~ 8.x
+DerpFest               | https://git.io/JJHS8 | Android 10.x
 Dirty Unicorns           | https://git.io/fxjYF | Android 4.4.4 ~ 10.x
 DotOS                  | https://git.io/fxjI2 | Android 7.1.2 ~ 9.x
 EmotionOS              | https://git.io/fj8O9 | Android 6.0.1 ~ 7.1.2
@@ -76,7 +77,9 @@ RevengeOS              | https://git.io/fjOEK | Android 8.1 ~ 10.x
 SAOSP-M                | https://git.io/fjOur | Android 6.0.1
 SAOSP-N                | https://git.io/fjOuu | Android 7.0 ~ 7.1.2
 ScrewdAOSP             | https://git.io/fjOu3 | Android 8.0 ~ 8.1
+ShapeShiftOS           | https://git.io/JJHSZ | Android 10.x
 SlimRoms                 | https://git.io/fxjeP | Android 4.1 ~ 10.x
+StagOS                 | https://git.io/JJHSq | Android 9.0 ~ 10.x
 Superior OS            | https://git.io/fjOEA | Android 9.0 ~ 10.x
 Syberia Project          | https://git.io/fjBGh | Android 9.0 ~ 10.x
 Team-OctOS             | https://git.io/fj83k | Android 4.4 ~ 7.1.2
