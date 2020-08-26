@@ -10,14 +10,14 @@ __AOSP__ (Android Open Source Project) | https://git.io/fxhQM | Origin ~ Android
 AOSDP (Android Open Source Dark Project)     | https://git.io/fjOzf | Android 8.1 ~ 9.x
 AospLime ROM           | /kəˈpʊt/ | Android 9.0
 AICP (Android Ice Cold Project)   | https://git.io/fxjY6 | Android 4.4.3 ~ 10.x
-AIMROM                   | https://git.io/fxj3G | Android 7.1.2 ~ 9.x
+AIMROM                   | https://git.io/fxj3G | Android 7.1.2 ~ 10.x
 AOKP (Android Open Kang Project)  | https://git.io/fxjqw | Android 4.0.4 ~ 9.x
 AOSGP (Android Open Source G-OS Project)     | https://git.io/fxjIA | Android 7.1.2
 AOSiP (Android Open Source illusion Project) | https://git.io/fxjLZ | Android 7.1.2 ~ 10.x
 AOSPA (ParanoidAndroid)  | https://git.io/fxjmj | Android 4.4.4 ~ 10.x
 AquariOS               | https://git.io/fjWnI | Android 7.1.1 ~ 10.x
 ArrowOS                | https://git.io/fjOEO | Android 8.1 ~ 10.x
-Bootleggers ROM          | https://git.io/fjOuq | Android 8.0 ~ 9.x
+Bootleggers ROM          | https://git.io/fjOuq | Android 8.0 ~ 10.x
 CarbonROM              | https://git.io/fxjmT | Android 5.1.1 ~ 10.x (cr8)
 CerberusOS             | https://git.io/fjOEU | Android 9.x
 CesiumOS               | https://git.io/JvIpg | Android 10.x
@@ -26,6 +26,7 @@ Colt-AOSP                | https://git.io/fxjYE | Android 8.1
 Colt-Enigma              | https://git.io/fjWnq | Android 10.x
 ColtOS                 | https://git.io/fxjY8 | Android 7.1.2
 ColtOS-Oreo              | https://git.io/fxjYR | Android 8.0 ~ 8.1
+Corvus ROM             | https://git.io/JUTiH | Android 10.x
 crDroid Android          | https://git.io/fxjmJ | Android 5.1.1 ~ 10.x
 CyanogenMod              | https://git.io/fxh7R | Android 2 ~ 7.1 (cm14.1)
 CypherOS (AOSCP)        | https://git.io/fjOub | Android 7.1.2 ~ 10.x
@@ -35,7 +36,7 @@ Dirty Unicorns           | https://git.io/fxjYF | Android 4.4.4 ~ 10.x
 DotOS                  | https://git.io/fxjI2 | Android 7.1.2 ~ 9.x
 EmotionOS              | https://git.io/fj8O9 | Android 6.0.1 ~ 7.1.2
 Evolution X            | https://git.io/fjOuH | Android 10.x
-FireHound              | https://git.io/fj8OF | Android 6.0.1 ~ .8.1.x
+FireHound              | https://git.io/fj8OF | Android 6.0.1 ~ 8.1.x, 10.x
 Flash ROM              | https://git.io/fjOuZ | Android 7.0 ~ 7.1.2
 Flux OS                | /kəˈpʊt/ | Android 9.0
 GlazeOS                  | https://git.io/fxhjg | Android 7.1.2 (ng7.1)
@@ -52,25 +53,29 @@ LegendROM-AOSP           | https://git.io/fj83v | Android 8.0 ~ 8.1
 LineageOS                | https://git.io/fxh7X | Android 8.0 (lineage-15) ~ 10.x (lineage-17)
 Liquid-Dark            | https://git.io/fj8O4 | Android 7.1.2
 LiquidRemix            | https://git.io/fjabp | Android 8.0 ~ 10.x
-MoKee OS               | https://git.io/fjOEH | Android 4.1 ~ 9.0
+MoKee OS               | https://git.io/fjOEH | Android 4.1 ~ 10.x
 MSM-Xtended Project      | https://git.io/fjOEp | Android 8.0 ~ 10.x
 NucleaRom              | https://git.io/fj83q | Android 7.1.2 ~ 9.x
-Nitrogen OS              | https://git.io/fxjGJ | Android 7.1.2 ~ 9.x
+Nitrogen OS              | https://git.io/fxjGJ | Android 7.1.2 ~ 10.x
 Noise Project          | https://git.io/fjOuJ | Android 6.0 ~ 7.0
 NothingRom             | https://git.io/fjOu1 | Android 6.0.1
 OmniROM                | https://git.io/fxjOH | Android 4.3 ~ 10.x
 Pixel Dust Project Nougat    | https://git.io/fjOER | Android 7.1.2
 Pixel Dust Project OREO  | https://git.io/fjOE4 | Android 8.1
 Pixel Dust Project Pie   | https://git.io/fjOEC | Android 9.0
+Pixel Dust Project CAF   | https://git.io/JUToN | Android 9.x ~ 10.x
 Pixel Experience         | https://git.io/fjOEP | Android 8.1 ~ 10.x
 PixysOS                | https://git.io/fjOuL | Android 8.1 ~ 10.x
 PornAOSP               | https://git.io/fj8sp | Android 8.0
 PornAOSP (PAOSP)         | https://git.io/fj8sj | Android 7.1.2
 Potato Open Sauce Project    | https://git.io/JvvT3 | Android 8.1 ~ 10.x
-PrismaOS               | https://git.io/fjOEF | Android 9.x
+PrismaOS               | /kəˈpʊt/ | Android 9.x
+Project Fluid          | https://git.io/JUT15 | Android 10.x
 ProjectNewWorld          | https://git.io/fj83m | Android 8.0 ~ 8.1
+ProjectSakura          | https://git.io/JUTVs | Android 10.x
 PureNexusProject         | https://git.io/fxjO1 | Android 8.0 ~ 8.1
 PureNexusProject-Legacy      | https://git.io/fjOuK | Android 6.0.1 ~ 7.1.2
+ReloadedOS             | https://git.io/JUTaE | Android 9.x ~ 10.x
 RenouveauOS            | https://git.io/Je2WI | Android 9.x
 Resurrection Remix OS    | https://git.io/fxhQh | Android 5.1 ~ 10.x
 RevengeOS              | https://git.io/fjOEK | Android 8.1 ~ 10.x
@@ -87,11 +92,12 @@ Tesla-M (old)            | https://git.io/fxhjZ | Android 6.0.1_r70
 Tesla-OS                 | https://git.io/fxhjl | Android 8.0 ~ 8.1
 TeslaOS                | https://git.io/fxhjR | Android 5.1.1 ~ 6.0.1_r81
 TeslaRom-N (old)         | https://git.io/fxhjn | Android 7.1.2_r33
-TipsyOs                | https://git.io/fxjeb | Android 5.1 ~ 9.x
-ToxycOS                | https://git.io/fxjU3 | Android Oreo 8.1
+The XPerience Project    | https://git.io/JUTig | Android 8.1.x ~ 10.x
+TipsyOs                | https://git.io/fxjeb | Android 5.1 ~ 10.x
+ToxycOS                | https://git.io/fxjU3 | Android 8.1
 ValidusOs                | https://git.io/fxjez | Android 8.0 ~ 10.x
-ViperOS                | https://git.io/fj83g | Android 7.1.2 ~ 9.x
-ViperOS Extended         | https://git.io/fxjf5 | Android Nougat 7.1.2
+ViperOS                | https://git.io/fj83g | Android 7.1.2 ~ 10.x
+ViperOS Extended         | https://git.io/fxjf5 | Android 7.1.2
 XenonHD                | https://git.io/fxjUR | Android 4.3 ~ 9.x
 XOSP (Xperia Open Source Project)  | https://git.io/fxjLU | Android 6.0.1 ~ 8.1.0
 -- | -- | --
