@@ -8,7 +8,7 @@ Android Name      | Link to Repository Manifest | Android versions
 :-----------------------:|:--------------------:|:---------------------------:
 __AOSP__ (Android Open Source Project) | https://git.io/fxhQM | Origin ~ Android 10.x
 AOSDP (Android Open Source Dark Project)     | https://git.io/fjOzf | Android 8.1 ~ 9.x
-AospLime ROM           | /kəˈpʊt/ | Android 9.0
+AospLime ROM           | https://git.io/fjOEJ | Android 10.x
 AICP (Android Ice Cold Project)   | https://git.io/fxjY6 | Android 4.4.3 ~ 10.x
 AIMROM                   | https://git.io/fxj3G | Android 7.1.2 ~ 10.x
 AOKP (Android Open Kang Project)  | https://git.io/fxjqw | Android 4.0.4 ~ 9.x
